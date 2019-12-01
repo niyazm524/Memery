@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Memery</string>
+    <string name="title_activity_main">Memery</string>
+    <string name="title_local">Local</string>
+    <string name="title_cloud">Cloud</string>
+    <string name="title_search">Поиск</string>
+    <string name="title_shared">Общие</string>
+    <string name="title_more">Ещё</string>
 </resources>

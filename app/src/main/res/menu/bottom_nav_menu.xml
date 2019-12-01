@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_local"
+        android:icon="@drawable/ic_local_black_24dp"
+        android:title="@string/title_local" />
+    <item
+        android:id="@+id/navigation_cloud"
+        android:icon="@drawable/ic_cloud_black_24dp"
+        android:title="@string/title_cloud" />
+    <item
+        android:enabled="false"
+        android:title="@string/title_search" />
+    <item
+        android:id="@+id/navigation_shared"
+        android:icon="@drawable/ic_all_black_24dp"
+        android:title="@string/title_shared" />
+    <item
+        android:id="@+id/navigation_more"
+        android:icon="@drawable/ic_more_black_24dp"
+        android:title="@string/title_more" />
+
+</menu>
