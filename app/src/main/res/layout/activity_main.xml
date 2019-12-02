@@ -15,6 +15,8 @@
         app:elevation="3dp"
         app:fab_size="@dimen/fab_size"
         app:itemIconTint="@color/bottom_navigation_colors"
+        app:itemTextAppearanceActive="@style/BottomNavigationView.Active"
+        app:itemTextAppearanceInactive="@style/BottomNavigationView"
         app:itemTextColor="@color/bottom_navigation_colors"
         app:labelVisibilityMode="labeled"
         app:menu="@menu/bottom_nav_menu" />
